@@ -1,6 +1,6 @@
 # Simplified User Journeys - Step-by-Step
 
-## Guest Mode Journey (300 chars)
+## Guest Mode Journey
 
 **Step 1:** Land on HomeScreen → Click "Continue as Guest"  
 **Step 2:** Auto-redirect to DiscoverScreen (skip Navigation Hub)  
@@ -11,7 +11,7 @@
 
 ---
 
-## Signed-In User Journey - First Time (300 chars)
+## Signed-In User Journey - First Time
 
 **Step 1:** HomeScreen → "Sign In" → Click "Create one here"  
 **Step 2:** CreateAccountScreen → Enter email/password → Submit  
@@ -22,7 +22,7 @@
 
 ---
 
-## Signed-In User Journey - Returning User (300 chars)
+## Signed-In User Journey - Returning User
 
 **Step 1:** HomeScreen → "Sign In" → Enter credentials  
 **Step 2:** NavigationScreen hub appears with profile name  
@@ -33,7 +33,7 @@
 
 ---
 
-## Discovery Flow - Signed-In (300 chars)
+## Discovery Flow - Signed-In
 
 **Step 1:** NavigationScreen → Click "Discover" tile  
 **Step 2:** DiscoverScreen → View profile card with full info  
@@ -44,7 +44,7 @@
 
 ---
 
-## Messaging Flow - Signed-In (300 chars)
+## Messaging Flow - Signed-In
 
 **Step 1:** NavigationScreen → Click "View My Messages"  
 **Step 2:** ViewMessagesScreen → See all conversations list  
@@ -55,7 +55,7 @@
 
 ---
 
-## Profile Management Flow - Signed-In (299 chars)
+## Profile Management Flow - Signed-In
 
 **Step 1:** NavigationScreen → Click "Edit My Public Profile"  
 **Step 2:** EditPublicProfileScreen → Update any fields (photos/bio/interests/prompts/preferences)  
@@ -66,7 +66,7 @@
 
 ---
 
-## Connections Flow - Signed-In (285 chars)
+## Connections Flow - Signed-In
 
 **Step 1:** NavigationScreen → Click "Connections" tile  
 **Step 2:** ConnectionsScreen → View all mutual matches  
@@ -92,3 +92,8 @@
 | **Sign-Up Prompts** | Yes (4 types) | None |
 
 ---
+
+**Document Version:** 1.0  
+**Last Updated:** November 16, 2025  
+**Purpose:** Product documentation for step-by-step testing
+**Audience:** DME-125 Students and Instructor
